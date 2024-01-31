@@ -2,9 +2,11 @@
 This project shows how visualizations and machine learning demonstrate the 20223 sales prediction at various stores. This also aims to predict future sales based on the given data. 
 
 # Insights 
+These metrics give us a good sense of how well the linear regression model is doing on both the training and testing sets. When the MAE, MSE, and RMSE values are lower, it means the model is doing a better job predicting the target variable. And if the R-squared value is higher, it indicates that the model fits the data well.
 
 
 # Visualization of the data
+
 
 
 # Evaluation Metrics
