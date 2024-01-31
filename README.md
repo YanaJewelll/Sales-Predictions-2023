@@ -6,6 +6,7 @@ These metrics give us a good sense of how well the linear regression model is do
 
 
 # Visualization of the data
+![Screenshot (63)](https://github.com/YanaJewelll/First-Portfolio-Project/assets/153261699/35b38324-ae4f-4508-b3c2-0ddbff6b8e95)
 
 
 
